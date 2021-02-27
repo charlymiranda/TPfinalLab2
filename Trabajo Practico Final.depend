@@ -1,0 +1,2537 @@
+# depslib dependency file v1.0
+1603581163 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1603310208 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1603309407 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\menu.c
+	"menu.h"
+
+1603311589 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\menu\menu.c
+	"menu.h"
+
+1603315890 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\menu\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"menuUsuario.h"
+	"menuAdmin.h"
+	"menuMod.h"
+
+1603523003 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1603315222 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\estructuras\usuario.c
+	"usuario.h"
+
+1603329567 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\estructuras\usuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1603522875 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+
+1603522875 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+
+1603316125 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\menu\menumod.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1603523057 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1603316013 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\menu\menumod.c
+	"menuMod.h"
+
+1603522884 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+
+1603522757 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1603564549 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1603565529 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\estructuras\stadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1603565464 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\estructuras\stadmin.c
+	"stAdmin.h"
+
+1603564906 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1603580148 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\tda\arboladmin.c
+	"arbolAdmin.h"
+
+1603580184 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\tda\arboladmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stAdmin.h"
+
+1603580245 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1603580245 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603566661 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\tda\listadobleadmin.c
+	"listaDobleAdmin.h"
+
+1603566289 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\tda\listadobleadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stAdmin.h"
+
+1603566862 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\tda\listadobleusuario.c
+	"listaDobleUsuario.h"
+
+1603566840 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\tda\listadobleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603565478 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\tda\listasimpleadmin.c
+	"listaSimpleAdmin.h"
+
+1603577803 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\tda\listasimpleadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stAdmin.h"
+
+1603565498 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1603566946 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603493834 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1603520537 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolAdmin.h"
+	"../TDA/listaSimpleAdmin.h"
+	"../TDA/listaDobleAdmin.h"
+
+1603521645 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1603521645 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../TDA/listaDobleUsuario.h"
+
+1603522757 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1603522757 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1603567583 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\estructuras\stadmin.c
+	"stAdmin.h"
+
+1603567583 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\estructuras\stadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1603567583 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1603567583 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1603581383 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1603567583 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+
+1603567583 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1603567583 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+
+1603567583 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../TDA/listaDobleUsuario.h"
+
+1603581383 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603567583 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603567583 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\tda\listadobleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603567583 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+
+1603567583 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolAdmin.h"
+	"../TDA/listaSimpleAdmin.h"
+	"../TDA/listaDobleAdmin.h"
+
+1603581383 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\tda\arboladmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stAdmin.h"
+
+1603581383 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\tda\listasimpleadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stAdmin.h"
+
+1603567583 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\tda\listadobleadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stAdmin.h"
+
+1603567583 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1603567583 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1603567583 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1603567583 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1603567583 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1603567583 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1603581383 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\tda\arboladmin.c
+	"arbolAdmin.h"
+
+1603581383 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1603567583 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\tda\listadobleadmin.c
+	"listaDobleAdmin.h"
+
+1603567583 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\tda\listadobleusuario.c
+	"listaDobleUsuario.h"
+
+1603567583 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1603567583 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\tda\listasimpleadmin.c
+	"listaSimpleAdmin.h"
+
+1603578075 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"gotoxy.h"
+	"../otrasFunciones.h"
+
+1603576903 d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\portada\gotoxy.h
+
+1603542109 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\portada\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1603578075 source:d:\tup\segundo cuatrimestre\programacion ii\trabajo-practico-final\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1603581383 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"gotoxy.h"
+	"../otrasFunciones.h"
+
+1603581383 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\portada\gotoxy.h
+
+1603581383 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\portada\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1603581383 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1603941377 source:c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1603941842 c:\users\charl\desktop\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1604688751 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\estructuras\stadmin.c
+	"stAdmin.h"
+
+1604688751 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\estructuras\stadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605479674 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1605479526 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1604664687 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1605392304 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605476571 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1605474306 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+
+1603581383 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\portada\gotoxy.h
+
+1605474306 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1605473505 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+	"menuVeterinaria.h"
+
+1605389506 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+
+1605477542 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+
+1605388502 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603945598 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605391027 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+
+1605389429 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+
+1604751619 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\arboladmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stAdmin.h"
+
+1603945645 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\listasimpleadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stAdmin.h"
+
+1605478326 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1605390224 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1605479046 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1603943334 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\menu\menuveterinaria.c
+	"menuVeterinaria.h"
+
+1603943391 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\menu\menuveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605390104 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/listaSimpleVeterinaria.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1603945355 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\arbolveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1604661645 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1605474306 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1603581383 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\portada\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1605474464 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1605389084 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1605479691 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1604703887 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.c
+	"subProgVeterinaria.h"
+
+1603945037 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\arboladmin.c
+	"arbolAdmin.h"
+
+1605479106 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1603945323 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\arbolveterinaria.c
+	"arbolVeterinaria.h"
+
+1603945674 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\listasimpleadmin.c
+	"listaSimpleAdmin.h"
+
+1603945598 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1604661645 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.c
+	"listaSimpleVeterinaria.h"
+
+1604668530 source:c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.c
+	"listaDeListasVeterinaria.h"
+
+1604672474 c:\users\brunofz\desktop\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.h
+	"../estructuras/stVeterinaria.h"
+	"../TDA/listaSimpleVeterinaria.h"
+
+1604688751 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stadmin.c
+	"stAdmin.h"
+
+1604688751 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1604664687 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1605392304 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605476571 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1605474306 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+
+1605474306 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1605473505 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+	"menuVeterinaria.h"
+
+1605389506 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+
+1605477542 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+
+1605388502 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605479526 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1603945598 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605391027 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+
+1605389429 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+
+1603943391 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605543810 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/listaSimpleVeterinaria.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1604661645 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1604672474 c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.h
+	"../estructuras/stVeterinaria.h"
+	"../TDA/listaSimpleVeterinaria.h"
+
+1605390224 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1605479046 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1605478326 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1603943334 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuveterinaria.c
+	"menuVeterinaria.h"
+
+1605474306 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1605474464 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1605389084 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1605479691 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1604703887 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.c
+	"subProgVeterinaria.h"
+
+1605479106 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1604668530 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.c
+	"listaDeListasVeterinaria.h"
+
+1603945598 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1604661645 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.c
+	"listaSimpleVeterinaria.h"
+
+1605479946 source:c:\users\charl\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1604688751 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stadmin.c
+	"stAdmin.h"
+
+1604688751 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605551181 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1605479526 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605546065 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1605392304 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1603943334 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuveterinaria.c
+	"menuVeterinaria.h"
+
+1603943391 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605474306 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1605547792 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/listaSimpleVeterinaria.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1605546091 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1605546589 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.h
+	"../estructuras/stVeterinaria.h"
+	"../TDA/listaSimpleVeterinaria.h"
+
+1605474306 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1605474464 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1605474306 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+
+1605389084 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1605545325 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605388502 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603945598 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605552715 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1605552741 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1605552201 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1605547445 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.c
+	"listaDeListasVeterinaria.h"
+
+1603945598 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1605546356 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.c
+	"listaSimpleVeterinaria.h"
+
+1605546965 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1605546965 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+	"../subProgramas/subProgUsuario.h"
+
+1605550821 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.c
+	"subProgVeterinaria.h"
+
+1605552741 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1605547936 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605549871 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1605546965 c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+	"menuVeterinaria.h"
+
+1605552201 source:c:\users\brunofz\desktop\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1604688751 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stadmin.c
+	"stAdmin.h"
+
+1604688751 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605818603 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1605392304 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605818843 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1605820214 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605474306 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1605816863 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605816863 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605817800 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1603945598 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605546589 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.h
+	"../estructuras/stVeterinaria.h"
+	"../TDA/listaSimpleVeterinaria.h"
+
+1605546091 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1605552783 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1605812123 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1605810318 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+
+1605547936 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605819503 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/listaSimpleVeterinaria.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1603943391 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605552741 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1603943334 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\menu\menuveterinaria.c
+	"menuVeterinaria.h"
+
+1605474306 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1605474464 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1605474306 c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+
+1605816863 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1605809423 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1605819408 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.c
+	"subProgVeterinaria.h"
+
+1605817504 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1605547445 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.c
+	"listaDeListasVeterinaria.h"
+
+1603945598 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1605546356 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.c
+	"listaSimpleVeterinaria.h"
+
+1605808043 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1605816563 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-15-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1605816563 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1605817800 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605818603 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1605392304 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605917508 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1605474306 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+
+1605474306 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1605810318 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+
+1605547936 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605917000 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1605816863 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603945598 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605546589 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.h
+	"../estructuras/stVeterinaria.h"
+	"../TDA/listaSimpleVeterinaria.h"
+
+1605546091 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1605916538 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/listaSimpleVeterinaria.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605820214 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605816863 c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605812123 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1605552741 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1605474306 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1605917883 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1605819408 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.c
+	"subProgVeterinaria.h"
+
+1605817504 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1605547445 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.c
+	"listaDeListasVeterinaria.h"
+
+1605917300 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1605546356 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.c
+	"listaSimpleVeterinaria.h"
+
+1605915800 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1605915860 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1605917000 source:c:\users\brunofz\desktop\tp final\trabajo-practico-final-19-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1605816563 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1605817800 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605818603 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1605992276 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605977563 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1605474306 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+
+1605992408 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1605810318 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+
+1605547936 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605917000 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1605816863 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603945598 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605992210 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.h
+	"../estructuras/stVeterinaria.h"
+	"../TDA/listaSimpleVeterinaria.h"
+
+1605546091 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1605992178 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/listaSimpleVeterinaria.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605820214 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605816863 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605983738 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1605992408 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1605992408 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1605992408 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1605915860 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1605980622 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1605819408 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.c
+	"subProgVeterinaria.h"
+
+1605817504 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1605547445 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.c
+	"listaDeListasVeterinaria.h"
+
+1605917300 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1605546356 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.c
+	"listaSimpleVeterinaria.h"
+
+1605992408 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-20-11-2020\trabajo-practico-final\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1605816563 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1605817800 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605818603 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1605992276 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605977563 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1605474306 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+
+1605992408 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1605810318 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+
+1605547936 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605917000 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1605816863 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603945598 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605992210 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.h
+	"../estructuras/stVeterinaria.h"
+	"../TDA/listaSimpleVeterinaria.h"
+
+1605546091 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1605992178 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/listaSimpleVeterinaria.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605820214 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605816863 f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605983738 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1605992408 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1605992408 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1605992408 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1605992408 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1605915860 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1605980622 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1605819408 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\subprogramas\subprogveterinaria.c
+	"subProgVeterinaria.h"
+
+1605817504 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1605547445 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\tda\listadelistasveterinaria.c
+	"listaDeListasVeterinaria.h"
+
+1605917300 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1605546356 source:f:\programacion\tp final progra 2\21-11-20 tp final con menu\trabajo-practico-final-con menu\trabajo-practico-final\trabajo practico final\tda\listasimpleveterinaria.c
+	"listaSimpleVeterinaria.h"
+
+1606081790 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\estructuras\stusuario.c
+	"stUsuario.h"
+
+1605817800 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1606083019 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1605992276 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1605996295 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1605474306 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+
+1605992408 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1605810318 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+
+1605547936 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605917000 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1605816863 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603945598 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605992210 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\tda\listadelistasveterinaria.h
+	"../estructuras/stVeterinaria.h"
+	"../TDA/listaSimpleVeterinaria.h"
+
+1605546091 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\tda\listasimpleveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1605992178 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\subprogramas\subprogveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/listaSimpleVeterinaria.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605820214 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605816863 c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1606080948 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\menu\menuadmin.c
+	"menuAdmin.h"
+
+1605996305 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\menu\menugeneral.c
+	"menuGeneral.h"
+
+1605992408 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\menu\menuusuario.c
+	"menuUsuario.h"
+
+1605992408 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\otrasfunciones.c
+	"otrasFunciones.h"
+
+1605992408 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\portada\portada.c
+	"Portada.h"
+
+1606081539 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1605980622 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1605819408 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\subprogramas\subprogveterinaria.c
+	"subProgVeterinaria.h"
+
+1605817504 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1606082515 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\tda\listadelistasveterinaria.c
+	"listaDeListasVeterinaria.h"
+
+1605917300 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1605546356 source:c:\users\yoga530\desktop\trabajo_practico_final_con_menu (1)\trabajo practico final con menu\tda\listasimpleveterinaria.c
+	"listaSimpleVeterinaria.h"
+
+1606087079 source:c:\users\brunofz\desktop\tp final\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1605817800 c:\users\brunofz\desktop\tp final\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1606086419 source:c:\users\brunofz\desktop\tp final\trabajo practico final\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1605992276 c:\users\brunofz\desktop\tp final\trabajo practico final\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1606088626 source:c:\users\brunofz\desktop\tp final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1605474306 c:\users\brunofz\desktop\tp final\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+
+1606087889 c:\users\brunofz\desktop\tp final\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1606087787 c:\users\brunofz\desktop\tp final\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+
+1606087122 c:\users\brunofz\desktop\tp final\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605917000 c:\users\brunofz\desktop\tp final\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1606087122 c:\users\brunofz\desktop\tp final\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603945598 c:\users\brunofz\desktop\tp final\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605992210 c:\users\brunofz\desktop\tp final\trabajo practico final\tda\listadelistasveterinaria.h
+	"../estructuras/stVeterinaria.h"
+	"../TDA/listaSimpleVeterinaria.h"
+
+1605546091 c:\users\brunofz\desktop\tp final\trabajo practico final\tda\listasimpleveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1606087148 c:\users\brunofz\desktop\tp final\trabajo practico final\subprogramas\subprogveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/listaSimpleVeterinaria.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605820214 c:\users\brunofz\desktop\tp final\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605816863 c:\users\brunofz\desktop\tp final\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1606088195 source:c:\users\brunofz\desktop\tp final\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1606088435 source:c:\users\brunofz\desktop\tp final\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1606087679 source:c:\users\brunofz\desktop\tp final\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1606087954 source:c:\users\brunofz\desktop\tp final\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1606088733 source:c:\users\brunofz\desktop\tp final\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1606086299 source:c:\users\brunofz\desktop\tp final\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1606087034 source:c:\users\brunofz\desktop\tp final\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1606087002 source:c:\users\brunofz\desktop\tp final\trabajo practico final\subprogramas\subprogveterinaria.c
+	"subProgVeterinaria.h"
+
+1605817504 source:c:\users\brunofz\desktop\tp final\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1606082515 source:c:\users\brunofz\desktop\tp final\trabajo practico final\tda\listadelistasveterinaria.c
+	"listaDeListasVeterinaria.h"
+
+1605917300 source:c:\users\brunofz\desktop\tp final\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1605546356 source:c:\users\brunofz\desktop\tp final\trabajo practico final\tda\listasimpleveterinaria.c
+	"listaSimpleVeterinaria.h"
+
+1606087079 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1605817800 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1606086419 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1605992276 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1606137282 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1605474306 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+
+1606087889 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1606087787 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+
+1606087122 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605917000 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1606087122 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603945598 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605992210 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\tda\listadelistasveterinaria.h
+	"../estructuras/stVeterinaria.h"
+	"../TDA/listaSimpleVeterinaria.h"
+
+1605546091 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\tda\listasimpleveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1606087148 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\subprogramas\subprogveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/listaSimpleVeterinaria.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605820214 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605816863 f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1606141368 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1606088435 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1606139496 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1606087954 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1606088733 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1606141100 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1606139361 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1606141611 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\subprogramas\subprogveterinaria.c
+	"subProgVeterinaria.h"
+
+1605817504 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1606082515 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\tda\listadelistasveterinaria.c
+	"listaDeListasVeterinaria.h"
+
+1605917300 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1605546356 source:f:\programacion\tp final progra 2\23-11-20 todos los menues\trabajo practico final\tda\listasimpleveterinaria.c
+	"listaSimpleVeterinaria.h"
+
+1606087079 source:c:\users\brunofz\desktop\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1605817800 c:\users\brunofz\desktop\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1606086419 source:c:\users\brunofz\desktop\trabajo practico final\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1605992276 c:\users\brunofz\desktop\trabajo practico final\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1606153661 source:c:\users\brunofz\desktop\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1605474306 c:\users\brunofz\desktop\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+
+1606087889 c:\users\brunofz\desktop\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1606087787 c:\users\brunofz\desktop\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+
+1606087122 c:\users\brunofz\desktop\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605917000 c:\users\brunofz\desktop\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1606087122 c:\users\brunofz\desktop\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603945598 c:\users\brunofz\desktop\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605992210 c:\users\brunofz\desktop\trabajo practico final\tda\listadelistasveterinaria.h
+	"../estructuras/stVeterinaria.h"
+	"../TDA/listaSimpleVeterinaria.h"
+
+1605546091 c:\users\brunofz\desktop\trabajo practico final\tda\listasimpleveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1606087148 c:\users\brunofz\desktop\trabajo practico final\subprogramas\subprogveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/listaSimpleVeterinaria.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605820214 c:\users\brunofz\desktop\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605816863 c:\users\brunofz\desktop\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1606141368 source:c:\users\brunofz\desktop\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1606088435 source:c:\users\brunofz\desktop\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1606139496 source:c:\users\brunofz\desktop\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1606087954 source:c:\users\brunofz\desktop\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1606088733 source:c:\users\brunofz\desktop\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1606141100 source:c:\users\brunofz\desktop\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1606139361 source:c:\users\brunofz\desktop\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1606153707 source:c:\users\brunofz\desktop\trabajo practico final\subprogramas\subprogveterinaria.c
+	"subProgVeterinaria.h"
+
+1605817504 source:c:\users\brunofz\desktop\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1606082515 source:c:\users\brunofz\desktop\trabajo practico final\tda\listadelistasveterinaria.c
+	"listaDeListasVeterinaria.h"
+
+1605917300 source:c:\users\brunofz\desktop\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1605546356 source:c:\users\brunofz\desktop\trabajo practico final\tda\listasimpleveterinaria.c
+	"listaSimpleVeterinaria.h"
+
+1606087079 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\estructuras\stusuario.c
+	"stUsuario.h"
+
+1606165391 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\estructuras\stusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1606086419 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\estructuras\stveterinaria.c
+	"stVeterinaria.h"
+
+1605992276 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\estructuras\stveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+
+1606153764 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"portada/Portada.h"
+	"menu/menuGeneral.h"
+
+1605474306 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\portada\portada.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+
+1606087889 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\otrasfunciones.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+
+1606087787 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\menu\menugeneral.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"menuUsuario.h"
+	"menuAdmin.h"
+
+1606087122 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\menu\menuusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1605917000 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\subprogramas\subprogusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../otrasFunciones.h"
+	"../TDA/listaDeListasVeterinaria.h"
+
+1606087122 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\tda\arbolusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1603945598 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\tda\listasimpleusuario.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stUsuario.h"
+
+1605992210 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\tda\listadelistasveterinaria.h
+	"../estructuras/stVeterinaria.h"
+	"../TDA/listaSimpleVeterinaria.h"
+
+1605546091 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\tda\listasimpleveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../estructuras/stVeterinaria.h"
+
+1606087148 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\subprogramas\subprogveterinaria.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/listaSimpleVeterinaria.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1605820214 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\menu\menuadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	<windows.h>
+	<ctype.h>
+	"../otrasFunciones.h"
+	"../subProgramas/subProgAdmin.h"
+	"../subProgramas/subProgUsuario.h"
+	"../subProgramas/subProgVeterinaria.h"
+
+1606166355 c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\subprogramas\subprogadmin.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+	"../TDA/arbolUsuario.h"
+	"../TDA/listaSimpleUsuario.h"
+	"../TDA/listaDeListasVeterinaria.h"
+	"../otrasFunciones.h"
+
+1606166351 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\menu\menuadmin.c
+	"menuAdmin.h"
+
+1606088435 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\menu\menugeneral.c
+	"menuGeneral.h"
+
+1606139496 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\menu\menuusuario.c
+	"menuUsuario.h"
+
+1606165217 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\otrasfunciones.c
+	"otrasFunciones.h"
+
+1606088733 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\portada\portada.c
+	"Portada.h"
+
+1606166291 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\subprogramas\subprogadmin.c
+	"subProgAdmin.h"
+
+1606139361 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\subprogramas\subprogusuario.c
+	"subProgUsuario.h"
+
+1606153707 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\subprogramas\subprogveterinaria.c
+	"subProgVeterinaria.h"
+
+1605817504 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\tda\arbolusuario.c
+	"arbolUsuario.h"
+
+1606082515 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\tda\listadelistasveterinaria.c
+	"listaDeListasVeterinaria.h"
+
+1605917300 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\tda\listasimpleusuario.c
+	"listaSimpleUsuario.h"
+
+1605546356 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\tda\listasimpleveterinaria.c
+	"listaSimpleVeterinaria.h"
+
+1606171622 source:c:\users\brunofz\desktop\trabajo practico final final final\trabajo practico final\resource.rc
+
